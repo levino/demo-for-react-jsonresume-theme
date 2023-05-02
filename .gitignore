@@ -1,4 +1,5 @@
 node_modules/
 CV.pdf
-public/
+/public/**/*
+!/public/profile.jpeg
 yarn-error.log
