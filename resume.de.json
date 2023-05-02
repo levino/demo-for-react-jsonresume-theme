@@ -1,0 +1,361 @@
+{
+  "basics": {
+    "name": "Samantha Jones",
+    "label": "Softwareentwicklerin",
+    "image": "profil.jpeg",
+    "email": "samantha.jones@email.com",
+    "phone": "(555) 555-5555",
+    "url": "https://www.samanthajones.com",
+    "summary": "Erfahrene Softwareentwicklerin mit einer Leidenschaft für die Entwicklung innovativer Lösungen, die die Benutzererfahrung verbessern.",
+    "location": {
+      "address": "123 Main St.",
+      "postalCode": "12345",
+      "city": "Anytown",
+      "countryCode": "US",
+      "region": "Jeder Bundesstaat"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sjones",
+        "url": "https://github.com/sjones"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "samanthajones",
+        "url": "https://www.linkedin.com/in/samanthajones"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Acme Inc.",
+      "position": "Softwareentwicklerin",
+      "website": "https://www.acme.com",
+      "startDate": "2018-06-01",
+      "endDate": "2022-05-31",
+      "summary": "Entwickelte und pflegte eine Webanwendung zur Verfolgung von Kundenbestellungen und Inventar unter Verwendung von React, Node.js und PostgreSQL.",
+      "highlights": [
+        "Implementierte die Echtzeit-Bestellverfolgungsfunktion unter Verwendung von WebSockets.",
+        "Optimierte Datenbankabfragen, um die Anwendungsleistung um 30% zu verbessern."
+      ]
+    },
+    {
+      "name": "XYZ Corp.",
+      "position": "Softwareingenieurin",
+      "website": "https://www.xyz.com",
+      "startDate": "2016-01-01",
+      "endDate": "2018-05-31",
+      "summary": "Entwickelte und pflegte eine mobile Anwendung zur Verwaltung persönlicher Finanzen unter Verwendung von React Native und Firebase.",
+      "highlights": [
+        "Implementierte die biometrische Authentifizierungsfunktion unter Verwendung von Touch ID und Face ID.",
+        "Integrierte APIs von Drittanbietern, um Benutzern das Anzeigen ihrer Kontostände bei mehreren Finanzinstituten zu ermöglichen."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cat Chat",
+      "startDate": "2019-06",
+      "endDate": "2019-07",
+      "url": "https://example.com/cat-chat",
+      "keywords": ["Chat", "Katzen", "Humor"],
+      "description": "Eine Chat-Anwendung für Katzen, komplett mit Emojis von Mäusen, Vögeln und Fischen. Meow-sages haben noch nie so niedlich ausgesehen!",
+      "highlights": [
+        "Realtime-Chat mit WebSocket-Technologie implementiert",
+        "Benutzerdefinierte Katzen-Emojis mit Adobe Illustrator erstellt"
+      ]
+    },
+    {
+      "name": "Nacho Tracker",
+      "startDate": "2020-05",
+      "endDate": "2020-07",
+      "url": "https://example.com/nacho-tracker",
+      "keywords": ["Nachos", "Tracking", "Snacks"],
+      "description": "Eine App zur Verfolgung des Standorts Ihrer Nachos. Verlieren Sie nie wieder Ihren Lieblingssnack aus den Augen!",
+      "highlights": [
+        "RESTful API mit Node.js und Express erstellt",
+        "Reaktionsfähiges UI mit Bootstrap entworfen"
+      ]
+    },
+    {
+      "name": "Reverse Alarm Clock",
+      "startDate": "2021-01",
+      "endDate": "2021-02",
+      "url": "https://example.com/reverse-alarm-clock",
+      "keywords": ["Uhr", "Zeit", "Umkehrung"],
+      "description": "Ein Wecker, der Sie aufweckt, indem er die Zeit auf den Moment einstellt, als Sie eingeschlafen sind. Wer braucht eine Schlummertaste?",
+      "highlights": [
+        "Algorithmus für die Berechnung der Schlafzeit mit JavaScript entwickelt",
+        "Integration mit Google Calendar API für die Planung"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Der ultimative Leitfaden für Katzenliebhaber",
+      "publisher": "Cat Fancy Magazine",
+      "releaseDate": "2022-01-01",
+      "url": "https://example.com/cat-lady-book",
+      "summary": "Dieser umfassende Leitfaden enthält alles, was Sie über das Leben als Katzenliebhaber wissen müssen - von der Auswahl des perfekten Begleiters bis hin zum Bau eines katzenfreundlichen Zuhauses."
+    },
+    {
+      "name": "Kochen mit Kakteen",
+      "publisher": "Desert Living Magazine",
+      "releaseDate": "2021-05-15",
+      "keywords": ["Kakteen", "Kochen", "Rezept"],
+      "summary": "Entdecken Sie die einzigartigen und köstlichen Aromen von Kakteen mit dieser Sammlung von Mund-wässernden Rezepten, von Kaktus-Tacos bis hin zu Kaktusfeigen-Margaritas."
+    },
+    {
+      "name": "Die Kunst des Seifen-Schnitzens",
+      "publisher": "Crafts Monthly",
+      "releaseDate": "2020-08-01",
+      "keywords": ["Seifen-Schnitzen", "Handwerk", "Kunst"],
+      "summary": "Lernen Sie die faszinierende und komplexe Kunst des Seifen-Schnitzens kennen - von der Auswahl der perfekten Seifenstücke bis hin zur Gestaltung atemberaubender Designs und Muster."
+    },
+    {
+      "name": "Die Geschichte des Unterwasserkorb-Webens",
+      "publisher": "Anthropology Quarterly",
+      "releaseDate": "2019-12-01",
+      "keywords": ["Korb-Weben", "Unterwasser", "Geschichte"],
+      "summary": "Erkunden Sie die antike Praxis des Unterwasserkorb-Webens und verfolgen Sie ihre Ursprünge von den antiken Zivilisationen bis zur Gegenwart und den Einfluss, den sie auf die menschliche Kultur und Gesellschaft hat."
+    },
+    {
+      "name": "Die Wissenschaft des Surfens",
+      "publisher": "Surfing Magazine",
+      "releaseDate": "2018-06-01",
+      "keywords": ["Surfen", "Wissenschaft", "Ozeanographie"],
+      "summary": "Tauchen Sie tief in die Wissenschaft des Surfens ein und untersuchen Sie die Physik, Ozeanographie und Meteorologie hinter diesem aufregenden Sport."
+    }
+  ],
+  "Bildung": [
+    {
+      "institution": "University of California, Berkeley",
+      "bereich": "Informatik",
+      "studienart": "Bachelor",
+      "beginn": "2013-08-01",
+      "ende": "2017-05-01",
+      "note": "3.7",
+      "kurse": [
+        "Datenstrukturen und Algorithmen",
+        "Computer-Netzwerke",
+        "Datenbank-Systeme",
+        "Künstliche Intelligenz"
+      ]
+    },
+    {
+      "institution": "Stanford University",
+      "bereich": "Künstliche Intelligenz",
+      "studienart": "Master",
+      "beginn": "2017-08-01",
+      "ende": "2019-05-01",
+      "note": "3.9",
+      "kurse": [
+        "Maschinelles Lernen",
+        "Natürliche Sprachverarbeitung",
+        "Computer Vision",
+        "Fortgeschrittene Robotik"
+      ]
+    },
+    {
+      "institution": "Harvard University",
+      "bereich": "Wirtschaftswissenschaften",
+      "studienart": "Bachelor",
+      "beginn": "2010-08-01",
+      "ende": "2014-05-01",
+      "note": "3.8",
+      "kurse": [
+        "Mikroökonomie",
+        "Makroökonomie",
+        "Internationaler Handel",
+        "Ökonometrie"
+      ]
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "bereich": "Elektrotechnik und Informatik",
+      "studienart": "PhD",
+      "beginn": "2020-08-01",
+      "note": "4.0",
+      "kurse": [
+        "Algorithmen",
+        "Verteilte Systeme",
+        "Computerarchitektur",
+        "Programmiersprachen"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Animal Shelter",
+      "position": "Volunteer",
+      "url": "https://www.localanimalshelter.com",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Assisted with daily operations of the shelter, including feeding and caring for animals, cleaning cages and kennels, and providing customer service to visitors.",
+      "highlights": [
+        "Trained and mentored new volunteers on proper animal care techniques.",
+        "Organized and led fundraising events to support the shelter's mission."
+      ]
+    },
+    {
+      "organization": "City Soup Kitchen",
+      "position": "Soup Kitchen Volunteer",
+      "url": "https://www.citysoupkitchen.com",
+      "startDate": "2018-03-01",
+      "endDate": "2018-06-30",
+      "summary": "Assisted with preparing and serving meals to homeless and low-income individuals in the community.",
+      "highlights": [
+        "Developed strong relationships with regular guests and provided emotional support and resources to those in need.",
+        "Collaborated with other volunteers to improve efficiency and organization of kitchen operations."
+      ]
+    },
+    {
+      "organization": "Global Health Corps",
+      "position": "Fellow",
+      "url": "https://www.globalhealthcorps.org",
+      "startDate": "2016-07-01",
+      "endDate": "2017-06-30",
+      "summary": "Collaborated with local health organizations in Malawi to develop and implement community health programs focused on maternal and child health.",
+      "highlights": [
+        "Designed and conducted community needs assessments to identify gaps in health services and resources.",
+        "Developed and delivered trainings to local health workers and community members on topics such as family planning, nutrition, and hygiene."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Mitarbeiter des Jahres",
+      "awarder": "ABC Firma",
+      "date": "2022-01-01",
+      "summary": "Ausgezeichnet für hervorragende Leistungen und Beiträge zum Team."
+    },
+    {
+      "title": "Exzellenz im Kundenservice",
+      "awarder": "XYZ Verein",
+      "date": "2021-05-01",
+      "summary": "Erhielt Auszeichnung für die konstante Bereitstellung außergewöhnlicher Kundenservice und Zufriedenheit."
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Meister"
+    },
+    {
+      "name": "React",
+      "level": "Meister"
+    },
+    {
+      "name": "Node.js",
+      "level": "Meister"
+    },
+    {
+      "name": "HTML",
+      "level": "Meister"
+    },
+    {
+      "name": "CSS",
+      "level": "Meister"
+    },
+    {
+      "name": "SQL",
+      "level": "Fortgeschritten"
+    },
+    {
+      "name": "Java",
+      "level": "Fortgeschritten"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Englisch",
+      "fluency": "Muttersprachler"
+    },
+    {
+      "language": "Spanisch",
+      "fluency": "Fortgeschritten"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "React Developer Certification",
+      "issuer": "React University",
+      "date": "2021-10-01",
+      "url": "https://www.reactuniversity.com/certificates/react-developer"
+    },
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2021-07-15",
+      "url": "https://www.aws.training/certification/digital-badges/verify?blablabla"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "issuer": "Scrum Alliance",
+      "date": "2021-04-01",
+      "url": "https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm"
+    },
+    {
+      "name": "Google Analytics Individual Qualification",
+      "issuer": "Google",
+      "date": "2020-09-01",
+      "url": "https://analytics.google.com/analytics/academy/course/6"
+    },
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "issuer": "International Information System Security Certification Consortium",
+      "date": "2019-12-01",
+      "url": "https://www.isc2.org/Certifications/CISSP"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fotografie",
+      "keywords": ["Landschaft", "Porträt", "Straße"],
+      "summary": "Ich liebe es, in meiner Freizeit Fotos von Landschaften, Menschen und Architektur zu machen."
+    },
+    {
+      "name": "Wandern",
+      "keywords": ["Berge", "Wege", "Natur"],
+      "summary": "Ich genieße es, die Natur zu erkunden und neue Wanderrouten mit schönen Aussichten zu entdecken."
+    },
+    {
+      "name": "Kochen",
+      "keywords": ["Italienische Küche", "Backen", "Grillen"],
+      "summary": "Ich experimentiere gerne mit neuen Rezepten und Techniken in der Küche."
+    },
+    {
+      "name": "Reisen",
+      "keywords": ["Kultur", "Essen", "Geschichte"],
+      "summary": "Ich liebe es, auf Reisen neue Kulturen kennenzulernen und lokale Küche auszuprobieren."
+    },
+    {
+      "name": "Musik",
+      "keywords": ["Jazz", "Blues", "Rock"],
+      "summary": "Ich höre gerne verschiedene Musikrichtungen und besuche Konzerte und Festivals, wenn möglich."
+    }
+  ],
+  "references": [
+    {
+      "name": "John Doe",
+      "reference": "Ich hatte das Vergnügen, mit Samantha an mehreren Projekten zu arbeiten, und sie liefert stets qualitativ hochwertige Arbeit pünktlich und im Budget. Ihre Aufmerksamkeit für Details und ihre Fähigkeit, effektiv zu kommunizieren, machen sie zu einem wertvollen Teammitglied."
+    },
+    {
+      "name": "Jane Smith",
+      "reference": "Ich kann Samantha uneingeschränkt für jede Stelle empfehlen, auf die sie sich bewirbt. Sie ist eine talentierte Kommunikatorin und Problemlöserin und geht immer über das Notwendige hinaus, um sicherzustellen, dass ihre Arbeit von höchster Qualität ist."
+    },
+    {
+      "name": "Bob Johnson",
+      "reference": "Samantha ist ein ausgezeichneter Teamplayer, der immer bereit ist, eine helfende Hand anzubieten. Ihre positive Einstellung und ihre starke Arbeitsmoral machen sie zu einer Freude, mit der zusammenzuarbeiten ist, und ich empfehle sie nachdrücklich für jede Stelle, auf die sie sich bewerben möchte."
+    },
+    {
+      "name": "Samantha Lee",
+      "reference": "Samantha [Jones] ist eine herausragende Mitarbeiterin, die stets Erwartungen übertrifft. Sie ist detailorientiert, organisiert und hochqualifiziert in ihrem Bereich. Ich empfehle sie nachdrücklich für jede Stelle, auf die sie sich bewerben möchte."
+    },
+    {
+      "name": "Tom Wilson",
+      "reference": "Samantha ist eine außergewöhnliche Führungspersönlichkeit, die ihr Team inspiriert, auf ein gemeinsames Ziel hinzuarbeiten. Sie ist eine kreative Problemlöserin und eine ausgezeichnete Kommunikatorin. Ich empfehle sie nachdrücklich für jede Führungsposition, auf die sie sich bewerben möchte."
+    }
+  ]
+}
